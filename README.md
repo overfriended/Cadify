@@ -7,8 +7,9 @@ March 3rd, 2018.
 Unknown
 ## Last Updated
 March of 2018
-## Author
-overfriended - Lead Developer
+## Authors
+overfriended - Developer
+Nobabs27 - Developer
 ## Current Information
 ### Commands
 #### Help - Command list & information
